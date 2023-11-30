@@ -30,7 +30,7 @@
     "nestjs-soap": "^2.0.0",
     "reflect-metadata": "^0.1.13",
     "crypto-js": "^4.1.1",
-    "rimraf": "^3.0.2",
+    "rimraf": "^4.0.0",
     "rxjs": "^7.2.0"
   },
   "devDependencies": {
