@@ -28,7 +28,7 @@
     "@nestjs/platform-express": "^8.0.0",
     "camaro": "^6.1.0",
     "nestjs-soap": "^2.0.0",
-    "reflect-metadata": "^0.1.13",
+    "reflect-metadata": "^0.2.0",
     "crypto-js": "^4.1.1",
     "rimraf": "^3.0.2",
     "rxjs": "^7.2.0"
